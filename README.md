@@ -1,34 +1,17 @@
-# Fonctionnalités de l'Application
+# Projet SAE PHP 
 
-## Partie Consultation (Publique)
+## Gestionnaire de Playlist Musique
 
-### DONE
-1. Liste des artistes
-2. Liste des albums d'un artiste
-3. Liste des chansons d'un album
-4. Liste des chansons d'un artiste
-5. Filtres, recherches et tris possibles
-6. Navigation simple entre les différentes vues
-7. Liste des albums d'un genre
-8. Liste des chansons d'un genre 
+Ce projet a pour but de concevoir une application web dynamique respectant le modèle mvc (modèle-vue-contrôleur) et interagissant avec une base de données.
 
-### TODO
+### Description
+Ce projet est une application de **Gestionnaire de Playlist de Musique**
+Il permet aux utilisateurrs de **créer**, **ajouter**, **supprimer**, **dupliquer**, **generer aléatoirement** des musiques. 
 
-RIEN
+###  Fonctionnalités principales
+**Architecture MVC :** Séparation entre les données, l'affichage et la logique du programme.
+**Authentification :** Système de connexion et d'inscription.
+**CRUD complet :** Création, Lecture, Mise à Jour et suppression de données.
 
-## Partie Gestion de Playlists (Nécessite une authentification)
-
-### DONE
-1. Créer des playlists
-2. Ajouter une chanson à une playlist
-3. Ajouter un album à une playlist
-4. Supprimer des chansons d'une playlist
-5. Supprimer des playlists
-6. Dupliquer des playlists
-7. Ajouter toutes les chansons d'un artiste à une playlist
-8. Générer des playlists aléatoirement suivant certains critères
-
-### TODO
-
-RIEN
-
+--- 
+*Projet réalisé dans le cadre du BUT Informatique.*
