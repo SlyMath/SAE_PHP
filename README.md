@@ -6,7 +6,7 @@ Ce projet a pour but de concevoir une application web dynamique respectant le mo
 
 ### Description
 Ce projet est une application de **Gestionnaire de Playlist de Musique**
-Il permet aux utilisateurrs de **créer**, **ajouter**, **supprimer**, **dupliquer**, **generer aléatoirement** des musiques. 
+Il permet aux utilisateurs de **créer**, **ajouter**, **supprimer**, **dupliquer**, **generer aléatoirement** des musiques. 
 
 ###  Fonctionnalités principales
 **Architecture MVC :** Séparation entre les données, l'affichage et la logique du programme.
